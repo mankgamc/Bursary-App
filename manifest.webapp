@@ -1,0 +1,21 @@
+{
+    "version": "1.0",
+    "name": "Bursary App",
+    "description": "Bursary App",
+    "launch_path": "index.html",
+    "icons": {
+        "16": "/img/seed-16x16.png",
+        "48": "/img/seed-48x48.png",
+        "128": "/img/seed-128x128.png"
+    },
+    "developer": {
+        "name": "Hisp South Africa",
+        "url": "http://www.hisp.org"
+    },
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "../../.."
+        }
+    }
+}
